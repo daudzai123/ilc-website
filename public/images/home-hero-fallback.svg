@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="g" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#FFD166"/>
+      <stop offset="100%" stop-color="#F2C94C"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#g)" />
+  <g transform="translate(80,80)">
+    <circle cx="80" cy="80" r="72" fill="#fff" />
+    <text x="170" y="110" font-family="Arial" font-size="48" fill="#0B2A63" font-weight="700">IQ Leading Center</text>
+  </g>
+</svg>

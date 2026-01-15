@@ -1,0 +1,4 @@
+[
+  {"id":"c1","name":"Mathematics","image":"/images/courses/math.svg","teachers":["Ali Ahmed"],"description":"Basic and advanced math courses."},
+  {"id":"c2","name":"Science","image":"/images/courses/science.svg","teachers":["Sara Khan"],"description":"Science topics with labs."}
+]

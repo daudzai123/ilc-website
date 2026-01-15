@@ -1,0 +1,11 @@
+{
+  "email": "info@ilc.example",
+  "phone": "0780363104",
+  "address": "Majboarad, Near to masid",
+  "location": { 
+    "lat": 34.41367913971962, 
+    "lng": 70.47046929038147 
+  },
+  "mission": "IQ Leading Center is committed to providing high-quality education and personalized guidance to learners of all levels. We aim to foster a supportive learning environment, cultivate curiosity, critical thinking, and innovation, and equip students with the skills and confidence needed to succeed in their academic and professional journeys.",
+  "vision": "To become a leading center of excellence in education, empowering students with knowledge, critical thinking, and life skills to excel academically and professionally."
+}

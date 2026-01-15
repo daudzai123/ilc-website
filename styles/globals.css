@@ -1,0 +1,18 @@
+@import 'leaflet/dist/leaflet.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --ilc-primary: #0B2A63;
+  --ilc-secondary: #D92B2B;
+  --ilc-accent: #F2C94C;
+}
+
+body{ 
+  font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  background-color: #fff;
+  color: #111827;
+}
+
+.header-logo{ width: 44px; height: 44px; }

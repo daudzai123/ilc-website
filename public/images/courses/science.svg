@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" width="400" height="240">
+  <rect width="100%" height="100%" fill="#fef3f2"/>
+  <text x="20" y="40" fill="#0B2A63" font-size="22" font-family="Arial">Science</text>
+  <rect x="20" y="60" width="40" height="40" fill="#F2C94C"/>
+</svg>

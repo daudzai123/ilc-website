@@ -1,0 +1,4 @@
+[
+  {"id":"e1","title":"Science Fair","date":"2026-03-12","images":["/images/events/event1-1.svg","/images/events/event1-2.svg"],"desc":"Annual science exhibition."},
+  {"id":"e2","title":"Math Olympiad","date":"2026-06-01","images":["/images/events/event2-1.svg"],"desc":"Competitive mathematics event."}
+]
